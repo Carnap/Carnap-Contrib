@@ -6,7 +6,7 @@ var points = exes.map(ex => {
 }).reduce((a,b) => {return a + b})
 
 try {
-    let pointspans = document.getElementsByClassname("pointspan")
+    let pointspans = document.getElementsByClassName("pointspan")
     Array.from(pointspans).forEach(x => {x.innerHTML = points})
 } catch (e) {
     console.log("using pointTotal.js requires an element with the class 'pointspan'")
