@@ -20,8 +20,8 @@ assignments:
 | Title              |  URL  |  
 | ------------------ | ----  | 
 | pointTotal.js      | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/js/pointTotal.js   | 
-| hide-points.css    | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.js | 
-| whiteboard.css     | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/whiteboard.js  | 
+| hide-points.css    | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.css | 
+| whiteboard.css     | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/whiteboard.css  | 
 
 Here's what each of these does:
 
