@@ -22,6 +22,7 @@ assignments:
 | pointTotal.js      | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/js/pointTotal.js   | 
 | hide-points.css    | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/hide-points.css | 
 | whiteboard.css     | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@9df544f/css/whiteboard.css  | 
+| canvas-embed.css   | https://cdn.jsdelivr.net/gh/carnap/carnap-contrib@d416465/css/canvas-embed.css |
 
 Here's what each of these does:
 
@@ -44,3 +45,10 @@ This is a stylesheet that takes the first deduction playground occurring in
 given assignment, and resizes and positions it to occupy the entire browser
 viewport. You can use it to create a "whiteboard" document for doing
 demonstrations in class or creating instructional videos.
+
+### canvas-embed.css
+
+This is a stylesheet that conceals the navigation bar header and
+copyright-notice footer, and also minimizes some whitespace, in order to make
+carnap's assignments look reasonable when embedded in
+[canvas](https://github.com/instructure/canvas-lms) via an iframe.
